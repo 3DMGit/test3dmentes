@@ -1,5 +1,8 @@
 {
   "name": "test3dmentes",
-  "integrations": {},
-  "type": "angular"
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "9ed6c3a1"
 }
